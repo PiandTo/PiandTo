@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PiandTo
-- 👀 I’m interested in Programming 
+- 👀 I’m interested in Work-Life-Tech-Balance 
 - 🌱 I’m currently learning Java and Spring Framework
 - 💞️ I’m looking to collaborate on Spring Projects
 - 📫 How to reach me Telegram (@PiAndTo)
